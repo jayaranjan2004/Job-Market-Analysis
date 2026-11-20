@@ -68,24 +68,19 @@ Job-Market-Analysis/
 ```
 
 ## 📊 Power BI Dashboards
-
-The project includes four interactive dashboard pages.
+## 📸 Dashboard Preview
 
 ### 1. Job Market Overview
-
-Provides an overview of job postings, companies, industries, average salary and company ratings.
+![Job Market Overview](Screenshots/01_Job_Market_Overview.png)
 
 ### 2. Salary Analysis
-
-Explores salary distributions, salary comparisons across states, and average salaries by education level.
+![Salary Analysis](Screenshots/02_Salary_Analysis.png)
 
 ### 3. Skills Analysis
-
-Highlights the most demanded technical skills, average salary by skill, and skill requirements across job roles.
+![Skills Analysis](Screenshots/03_Skills_Analysis.png)
 
 ### 4. Company & Market Insights
-
-Analyses salary patterns based on company size, seniority, industry and ownership.
+![Company & Market Insights](Screenshots/04_Company_Market_Insights.png)
 
 ## 📈 Key Findings
 
